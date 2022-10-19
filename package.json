@@ -1,7 +1,7 @@
 {
   "name": "test",
   "version": "1.0.0",
-  "description": "",
+  "description": "OOP and testing for week 10 homework",
   "main": "index.js",
   "scripts": {
     "test": "jest"
