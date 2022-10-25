@@ -10,6 +10,7 @@ The focus of this unit was Object Oriented Programming and unit testing. The obj
 - [Acceptance Criteria](#acceptance-criteria)
 - [Screenshot](#screenshot)
 - [Walkthrough Video](#Walkthrough-Video)
+- [GitHub](#GitHub)
 
 # User Story
 
@@ -46,6 +47,6 @@ This is a screenshot of the generated HTML webpage.
 
 youtube link : https://youtu.be/55rpXfqcwhM
 
-## Github
+## GitHub
 
 https://github.com/alisradwan/Team_Profile_Generator
